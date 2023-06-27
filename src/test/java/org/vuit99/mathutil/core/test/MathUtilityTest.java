@@ -18,7 +18,7 @@ public class MathUtilityTest {
       assertEquals(2, MathUtility.getFactorial(2));
       assertEquals(6, MathUtility.getFactorial(3));
       assertEquals(24, MathUtility.getFactorial(4));
-      assertEquals(120, MathUtility.getFactorial(5));
+      assertEquals(1200, MathUtility.getFactorial(5));
   }
   
   //HỌC KĨ THUẬT KIỂM THỬ CHO DÂN DEV - KĨ THUẬT DDT
